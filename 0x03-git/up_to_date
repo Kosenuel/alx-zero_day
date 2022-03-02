@@ -1,0 +1,2 @@
+git remote add upstream https://github.com/kosenuel/alx-zero_day
+git fetch upstream
