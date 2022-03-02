@@ -1,3 +1,2 @@
 git remote add upstream https://github.com/kosenuel/alx-zero_day
-git fetch upstream
-git merge upstream
+git pull https://github.com/Kosenuel/alx-zero_day
